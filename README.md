@@ -1,4 +1,4 @@
-# 🏥 Claim Denial Prediction — End-to-End ML Pipeline
+## 🏥 Claim Denial Prediction — End-to-End ML Pipeline
 
 This project tackles a core challenge in healthcare analytics: **predicting which medical claims are likely to be denied**.
 It uses a fully engineered machine-learning pipeline built on synthetic yet realistic claims data, with a strong focus on domain-driven features and explainability.
